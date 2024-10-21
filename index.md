@@ -57,7 +57,7 @@
 
     <h1>Welcome to Zackary and Natsumi's website</h1>
     <h2>ザックと夏海のウェブサイトへようこそ</h2>
-    <h3><a href="_posts/2021-03-08-blog-post-title-from-file-name.md" title="Natsumi's Blog">Natsumi's Blog</a></h3>
+    <h3><a href="_posts/2021/03/08/blog-post-title-from-file-name.md" title="Natsumi's Blog">Natsumi's Blog</a></h3>
 
     <script>
         const colors = ['#FF5733', '#33FF57', '#3357FF', '#F5FF33', '#FF33A1', '#33FFF5'];
